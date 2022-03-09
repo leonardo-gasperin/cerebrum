@@ -4,7 +4,7 @@ Tags:
 
 # User Experience
 
-It's how the user feels while interacting with a [[Product]]
+It's how the user feels while interacting with a [Product](Product.md)
 
 ## References
 
